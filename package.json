@@ -1,7 +1,7 @@
 {
-  "name": "automation-takehome-project",
+  "name": "automating-low-price-search",
   "version": "1.0.0",
-  "description": "Project for candidates to complete as a hiring assessment.",
+  "description": "Project to search e-commerce websites for lowest price of a product",
   "main": "index.js",
   "scripts": {},
   "keywords": [],
